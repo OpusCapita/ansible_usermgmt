@@ -1,7 +1,13 @@
 Role Name
 =========
 
-A brief description of the role goes here.
+usermgmt
+
+Tasks:
+
+1. Create Linux user and its home directory
+2. Add its public key in the target host know_hosts file
+3. Add user to Sudo group
 
 Requirements
 ------------
