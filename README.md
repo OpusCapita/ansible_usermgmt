@@ -5,8 +5,10 @@ A brief description of the role goes here.
 
 Requirements
 ------------
-
-Any pre-requisites that may not be covered by Ansible itself or the role should be mentioned here. For instance, if the role uses the EC2 module, it may be a good idea to mention in this section that the boto package is required.
+Please make sure remote user has  NOPASSWD SUDO rights.
+Update user information  in /var/users.yml with or without sudo access as per requirement
+Put user public key in files/ in <username>.pub format RSA 2048 
+ 
 
 Role Variables
 --------------
@@ -26,14 +28,14 @@ Including an example of how to use your role (for instance, with variables passe
     - hosts: servers
       roles:
          - { role: username.rolename, x: 42 }
+         
+Run playbook
+-------------
+ansible-playbook -i <host path /env/..> usermgmt.yml 
 
-License
--------
-
-BSD
+ansible-play
 
 Author Information
 ------------------
-
-An optional section for the role authors to include contact information, or a website (HTML is not allowed).
+Amit Tiwari
 # ansible_usermgmt
