@@ -1,0 +1,9 @@
+---
+users:
+
+  - username: rogozto1
+    use_sudo: yes
+
+  - username: tiwaram1
+    use_sudo: yes
+
