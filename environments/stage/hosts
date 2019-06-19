@@ -17,10 +17,19 @@
 
 # Ex 2: A collection of hosts belonging to the 'webservers' group
 
-[prod]
-#S-L-BNMP-B2B-IS01 ansible_ssh_host=10.26.27.36
+[stage]
+S-L-BNMP-B2B-IS01 ansible_ssh_host=10.26.27.36
 S-L-BNMP-B2B-IS02 ansible_ssh_host=10.26.27.37
 S-L-BNMP-B2B-IS03 ansible_ssh_host=10.26.27.39
+S-L-BNMP-EGW01 ansible_ssh_host=10.26.27.101
+S-L-BNMP-EGW02 ansible_ssh_host=10.26.27.102
+S-L-BNMP-MT ansible_ssh_host=10.26.27.20
+S-L-BNMP-MWS ansible_ssh_host=10.26.27.100
+S-L-BNMP-ROUTER ansible_ssh_host=10.26.27.38
+S-L-BNMP-UM1 ansible_ssh_host=10.26.27.68
+S-L-BNMP-UM2 ansible_ssh_host=10.26.27.69
+S-L-BNMP-UM3 ansible_ssh_host=10.26.27.70
+
 ## beta.example.org
 ## 192.168.1.100
 ## 192.168.1.110
