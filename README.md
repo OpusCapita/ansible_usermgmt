@@ -8,13 +8,17 @@ Tasks:
 1. Create Linux user and its home directory
 2. Add its public key in the target host know_hosts file
 3. Add user to Sudo group
+4. Remove user with its home directory
 
 Requirements
 ------------
 Please make sure remote user has  NOPASSWD SUDO rights.
 Update user information  in /var/users.yml with or without sudo access as per requirement
 Put user public key in files/ in <username>.pub format RSA 2048 
- 
+
+User Addition: - update vars/user.yml with the new users or remove users whcih need to be removed
+
+User Removal:  - add users in vars/deleteusers.yml which need to be removed. Please ensure they are removed from vars/users.yml as first. 
 
 Role Variables
 --------------
