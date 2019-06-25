@@ -12,6 +12,8 @@ users:
 
   - username: mahatam1
     use_sudo: yes
-
+ 
+  - username: murradu1
+    use_sudo: no
 
 
