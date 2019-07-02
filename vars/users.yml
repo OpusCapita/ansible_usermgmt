@@ -16,4 +16,6 @@ users:
   - username: murradu1
     use_sudo: no
 
+  - username: ext-medlaro1
+    use_sudo: no
 
