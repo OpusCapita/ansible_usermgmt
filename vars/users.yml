@@ -19,3 +19,12 @@ users:
   - username: ext-medlaro1
     use_sudo: no
 
+  - username: vodoviichuk
+    use_sudo: no
+
+  - username: rkenins
+    use_sudo: no
+
+  - username: mpaegle
+    use_sudo: no
+
