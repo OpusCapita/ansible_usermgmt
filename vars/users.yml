@@ -28,3 +28,8 @@ users:
   - username: mpaegle
     use_sudo: no
 
+  - username: ext-winbeja1
+    use_sudo: yes
+
+  - username: ext-samiko1
+    use_sudo: yes
