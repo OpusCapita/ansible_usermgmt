@@ -17,7 +17,7 @@ users:
     use_sudo: no
 
   - username: ext-medlaro1
-    use_sudo: no
+    use_sudo: yes
 
   - username: vodoviichuk
     use_sudo: no
@@ -33,3 +33,13 @@ users:
 
   - username: ext-samiko1
     use_sudo: yes
+
+  - username: ext-gamaca1
+    use_sudo: yes
+
+  - username: ext-sarahgu1
+    use_sudo: no
+
+  - username: ext-limalu1
+    use_sudo: no
+
