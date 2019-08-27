@@ -18,9 +18,9 @@
 # Ex 2: A collection of hosts belonging to the 'webservers' group
 
 [dev]
-#D-L-MXP-B2B-IS ansible_ssh_host=10.26.20.103
-#D-L-MXP-EGW  ansible_ssh_host=10.26.20.101
-#D-L-MXP-MWS  ansible_ssh_host=10.26.20.102
+D-L-MXP-B2B-IS ansible_ssh_host=10.26.20.103
+D-L-MXP-EGW  ansible_ssh_host=10.26.20.101
+D-L-MXP-MWS  ansible_ssh_host=10.26.20.102
 #D-L-MXP-UM1  ansible_ssh_host=10.26.20.104
 #D-L-MXP-UM2  ansible_ssh_host=10.26.20.105
 #D-L-MXP-UM3  ansible_ssh_host=10.26.20.106
