@@ -43,3 +43,7 @@ users:
   - username: ext-limalu1
     use_sudo: no
 
+  - username: ext-suihkmi1
+    use_sudo: no
+
+
