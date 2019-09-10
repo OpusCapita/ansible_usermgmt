@@ -46,4 +46,10 @@ users:
   - username: ext-suihkmi1
     use_sudo: no
 
+  - username: ext-fardni1
+    use_sudo: no
+
+  - username: ext-sandbvi1
+    use_sudo: no
+
 
