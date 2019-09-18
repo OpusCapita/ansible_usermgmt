@@ -15,25 +15,8 @@
 ## 192.168.100.1
 ## 192.168.100.10
 
-# Ex 2: A collection of hosts belonging to the 'webservers' group
-
-[prod]
-p-l-mpx-mail ansible_ssh_host=10.26.24.4
-p-l-mpx-mail ansible_ssh_host=10.26.24.4
-P-BNMP-CI ansible_ssh_host=10.26.26.8
-P-L-BNMP-B2B-IS01 ansible_ssh_host=10.26.22.68
-P-L-BNMP-B2B-IS02 ansible_ssh_host=10.26.22.69
-P-L-BNMP-EGW01 ansible_ssh_host=10.26.22.196
-P-L-BNMP-EGW02 ansible_ssh_host=10.26.22.197
-P-L-BNMP-MWS ansible_ssh_host=10.26.22.198
-P-L-BNMP-UM1 ansible_ssh_host=10.26.22.132
-P-L-BNMP-UM2 ansible_ssh_host=10.26.22.133
-P-L-BNMP-UM3 ansible_ssh_host=10.26.22.134
-
-P-L-BNMP-SFTP01  ansible_ssh_host=10.26.22.73
-P-L-BNMP-SFTP02  ansible_ssh_host=10.26.22.74
-P-L-BNMP-EGW1   ansible_ssh_host=10.26.22.199
-P-L-BNMP-EGW2  ansible_ssh_host=10.26.22.200
+# Ex 2: A collection of hosts belonging to the 'webservers' gro[stage]
+127.0.0.1 ansible_connection=local 
 
 
 ## beta.example.org

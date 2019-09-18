@@ -29,7 +29,7 @@ users:
     use_sudo: no
 
   - username: ext-winbeja1
-    use_sudo: yes
+    use_sudo: no
 
   - username: ext-samiko1
     use_sudo: yes
