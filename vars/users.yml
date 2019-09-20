@@ -1,55 +1,14 @@
 ---
 users:
 
-  - username: rogozto1
-    use_sudo: yes
-
   - username: tiwaram1
     use_sudo: yes
 
   - username: ext-jeroen.wanten
     use_sudo: yes
 
-  - username: mahatam1
-    use_sudo: yes
- 
-  - username: murradu1
-    use_sudo: no
-
   - username: ext-medlaro1
     use_sudo: yes
 
-  - username: vodoviichuk
-    use_sudo: no
-
-  - username: rkenins
-    use_sudo: no
-
-  - username: mpaegle
-    use_sudo: no
-
-  - username: ext-winbeja1
-    use_sudo: no
-
-  - username: ext-samiko1
+  - username: ext-luisli01
     use_sudo: yes
-
-  - username: ext-gamaca1
-    use_sudo: yes
-
-  - username: ext-sarahgu1
-    use_sudo: no
-
-  - username: ext-limalu1
-    use_sudo: no
-
-  - username: ext-suihkmi1
-    use_sudo: no
-
-  - username: ext-fardni1
-    use_sudo: no
-
-  - username: ext-sandbvi1
-    use_sudo: no
-
-

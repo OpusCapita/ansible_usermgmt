@@ -29,10 +29,9 @@ P-L-BNMP-MWS ansible_ssh_host=10.26.22.198
 P-L-BNMP-UM1 ansible_ssh_host=10.26.22.132
 P-L-BNMP-UM2 ansible_ssh_host=10.26.22.133
 P-L-BNMP-UM3 ansible_ssh_host=10.26.22.134
-
 P-L-BNMP-SFTP01  ansible_ssh_host=10.26.22.73
 P-L-BNMP-SFTP02  ansible_ssh_host=10.26.22.74
-P-L-BNMP-EGW1   ansible_ssh_host=10.26.22.199
+P-L-BNMP-EGW1  ansible_ssh_host=10.26.22.199
 P-L-BNMP-EGW2  ansible_ssh_host=10.26.22.200
 
 
