@@ -10,5 +10,3 @@ users:
   - username: ext-medlaro1
     use_sudo: yes
 
-  - username: ext-luisli01
-    use_sudo: yes
