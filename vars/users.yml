@@ -19,4 +19,6 @@ users:
   - username: ext-medlaro1
     use_sudo: yes
 
+  - username: berneva1
+    use_sudo: yes
 
