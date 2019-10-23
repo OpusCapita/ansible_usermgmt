@@ -22,3 +22,5 @@ users:
   - username: ext-mcgrato1
     use_sudo: yes
 
+  - username: ext-hodgean1
+    use_sudo: yes
