@@ -22,3 +22,5 @@ users:
   - username: berneva1
     use_sudo: yes
 
+  - username: ext-hodgean1
+    use_sudo: yes
