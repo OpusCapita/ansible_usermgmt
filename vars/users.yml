@@ -24,3 +24,15 @@ users:
 
   - username: ext-hodgean1
     use_sudo: yes
+
+  - username: katkoan1
+    use_sudo: no
+
+  - username: ext-johanem1
+    use_sudo: no
+
+  - username: ext-sandbvi1
+    use_sudo: no
+
+  - username: ext-jaiswro1
+    use_sudo: no
