@@ -4,6 +4,9 @@ users:
   - username: rogozto1
     use_sudo: yes
 
+  - username: ext-mcgrato1
+    use_sudo: yes
+
   - username: tiwaram1
     use_sudo: yes
 
@@ -25,17 +28,20 @@ users:
   - username: ext-hodgean1
     use_sudo: yes
 
-  - username: katkoan1
-    use_sudo: no
-
-  - username: ext-johanem1
-    use_sudo: no
-
-  - username: ext-sandbvi1
-    use_sudo: no
-
-  - username: ext-jaiswro1
-    use_sudo: no
-
   - username: ps
     use_sudo: no
+
+  - username: spiridonov
+    use_sudo: yes
+
+  - username: mantya1
+    use_sudo: yes
+
+  - username: mwaliszewska
+    use_sudo: yes
+
+  - username: fwisniewski
+    use_sudo: yes
+
+  - username: mlewandowski
+    use_sudo: yes

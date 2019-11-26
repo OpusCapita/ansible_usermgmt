@@ -19,10 +19,10 @@
 
 [prod]
 p-l-mpx-mail ansible_ssh_host=10.26.24.4
-p-l-mpx-mail ansible_ssh_host=10.26.24.4
-P-BNMP-CI ansible_ssh_host=10.26.26.8
+P-L-BNMP-CI ansible_ssh_host=10.26.26.8
 P-L-BNMP-B2B-IS01 ansible_ssh_host=10.26.22.68
 P-L-BNMP-B2B-IS02 ansible_ssh_host=10.26.22.69
+P-L-BNMP-B2B-IS03 ansible_ssh_host=10.26.22.75
 P-L-BNMP-EGW01 ansible_ssh_host=10.26.22.196
 P-L-BNMP-EGW02 ansible_ssh_host=10.26.22.197
 P-L-BNMP-MWS ansible_ssh_host=10.26.22.198
