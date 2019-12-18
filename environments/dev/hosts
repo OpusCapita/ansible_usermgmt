@@ -18,16 +18,16 @@
 # Ex 2: A collection of hosts belonging to the 'webservers' group
 
 [dev]
-D-L-MXP-B2B-IS ansible_ssh_host=10.26.20.103
-D-L-MXP-EGW  ansible_ssh_host=10.26.20.101
-D-L-MXP-MWS  ansible_ssh_host=10.26.20.102
-D-L-MXP-EGW  ansible_ssh_host=10.26.20.110
-#D-L-MXP-UM1  ansible_ssh_host=10.26.20.104
-#D-L-MXP-UM2  ansible_ssh_host=10.26.20.105
-#D-L-MXP-UM3  ansible_ssh_host=10.26.20.106
-D-L-BNMP-SFTP-IS  ansible_ssh_host=10.26.20.40
-D-L-BNMP-TESTAUTOMATION  ansible_ssh_host=10.26.20.41
-D-L-BNMP-MT ansible_ssh_host=10.26.20.29
+#D-L-MXP-B2B-IS ansible_ssh_host=10.26.20.103
+#D-L-MXP-EGW  ansible_ssh_host=10.26.20.101
+#D-L-MXP-MWS  ansible_ssh_host=10.26.20.102
+#D-L-MXP-EGW  ansible_ssh_host=10.26.20.110
+D-L-MXP-UM1  ansible_ssh_host=10.26.20.104
+D-L-MXP-UM2  ansible_ssh_host=10.26.20.105
+D-L-MXP-UM3  ansible_ssh_host=10.26.20.106
+#D-L-BNMP-SFTP-IS  ansible_ssh_host=10.26.20.40
+#D-L-BNMP-TESTAUTOMATION  ansible_ssh_host=10.26.20.41
+#D-L-BNMP-MT ansible_ssh_host=10.26.20.29
 
 ## beta.example.org
 ## 192.168.1.100
