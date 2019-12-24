@@ -45,3 +45,12 @@ users:
 
   - username: mlewandowski
     use_sudo: yes
+
+  - username: matejma1
+    use_sudo: no
+
+  - username: wierzma1
+    use_sudo: no
+
+  - username: gustael1
+    use_sudo: no
