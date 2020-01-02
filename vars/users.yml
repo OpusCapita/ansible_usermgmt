@@ -54,3 +54,7 @@ users:
 
   - username: gustael1
     use_sudo: no
+
+  - username: cbjenkins
+    use_sudo: yes
+
