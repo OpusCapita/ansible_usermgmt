@@ -58,3 +58,8 @@ users:
   - username: cbjenkins
     use_sudo: yes
 
+  - username: zantoma1
+    use_sudo: no
+
+  - username: jenkins
+    use_sudo: yes
