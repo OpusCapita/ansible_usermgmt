@@ -4,17 +4,8 @@ users:
   - username: tiwaram1
     use_sudo: yes
 
-  - username: ext-jeroen.wanten
+  - username: jenkins
     use_sudo: yes
 
-  - username: ext-medlaro1
+  - username: agencer
     use_sudo: yes
-
-  - username: berneva1
-    use_sudo: yes
-
-  - username: ext-hodgean1
-    use_sudo: yes
-
-  - username: testautomation
-    use_sudo: no
