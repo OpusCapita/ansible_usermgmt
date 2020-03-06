@@ -28,6 +28,7 @@ D-L-MXP-UM3  ansible_ssh_host=10.26.20.106
 #D-L-BNMP-SFTP-IS  ansible_ssh_host=10.26.20.40
 #D-L-BNMP-TESTAUTOMATION  ansible_ssh_host=10.26.20.41
 #D-L-BNMP-MT ansible_ssh_host=10.26.20.29
+C-L-BNMP-B2B-IS  ansible_ssh_host=10.26.20.23
 
 ## beta.example.org
 ## 192.168.1.100

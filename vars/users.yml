@@ -9,3 +9,7 @@ users:
 
   - username: psharp
     use_sudo: no
+
+  - username: djurbgu1
+    use_sudo: no
+
