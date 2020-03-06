@@ -9,3 +9,6 @@ users:
 
   - username: agencer
     use_sudo: yes
+
+  - username: ext-jeroen.wanten
+    use_sudo: yes
