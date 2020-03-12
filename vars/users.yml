@@ -4,12 +4,21 @@ users:
   - username: jenkins
     use_sudo: yes
 
-  - username: adondero
+  - username: podlada1
     use_sudo: no
 
-  - username: psharp
+  - username: debowir1
     use_sudo: no
 
-  - username: djurbgu1
+  - username: wasiemi1
+    use_sudo: no
+
+  - username: demkowo1
+    use_sudo: no
+
+  - username: rogozto1
+    use_sudo: no
+
+  - username: misiale1
     use_sudo: no
 
