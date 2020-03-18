@@ -22,3 +22,5 @@ users:
   - username: misiale1
     use_sudo: no
 
+  - username: jankora1
+    use_sudo: no
