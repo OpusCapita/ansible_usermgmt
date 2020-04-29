@@ -24,3 +24,12 @@ users:
 
   - username: jankora1
     use_sudo: no
+
+  - username: marchmi1
+    use_sudo: no
+
+  - username: ext-vmaris1
+    use_sudo: no
+
+  - username: muikkta1
+    use_sudo: no
