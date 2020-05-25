@@ -35,7 +35,8 @@ P-L-BNMP-SFTP02  ansible_ssh_host=10.26.22.74
 P-L-BNMP-EGW1   ansible_ssh_host=10.26.22.199
 P-L-BNMP-EGW2  ansible_ssh_host=10.26.22.200
 
-
+[cc]
+P-L-BNMP-CC-TEST  ansible_ssh_host=10.26.26.9
 ## beta.example.org
 ## 192.168.1.100
 ## 192.168.1.110

@@ -4,32 +4,5 @@ users:
   - username: jenkins
     use_sudo: yes
 
-  - username: podlada1
-    use_sudo: no
-
-  - username: debowir1
-    use_sudo: no
-
-  - username: wasiemi1
-    use_sudo: no
-
-  - username: demkowo1
-    use_sudo: no
-
-  - username: rogozto1
-    use_sudo: no
-
-  - username: misiale1
-    use_sudo: no
-
-  - username: jankora1
-    use_sudo: no
-
-  - username: marchmi1
-    use_sudo: no
-
-  - username: ext-vmaris1
-    use_sudo: no
-
-  - username: muikkta1
-    use_sudo: no
+  - username: ext-jeroen.wanten
+    use_sudo: yes
